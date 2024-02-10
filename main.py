@@ -1,2 +1,6 @@
-print("hello world")
-print("hello world")
+def hello_world():
+  """Salom Dunyo dasturi"""
+  ptint("Hello World! :)")
+
+hello_world()
+
